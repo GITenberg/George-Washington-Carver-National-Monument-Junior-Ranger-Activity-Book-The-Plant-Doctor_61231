@@ -1,0 +1,31 @@
+_repo: George-Washington-Carver-National-Monument-Junior-Ranger-Activity-Book-The-Plant-Doctor_61231
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. National Park Service
+    aliases:
+    - United States. Department of the Interior. National Park Service
+    - Service, National Park
+    - Service, United States National Park
+    - National Park Service (U.S.)
+    gutenberg_agent_id: '45167'
+    url: http://www.gutenberg.org/2009/agents/45167
+    wikipedia: https://en.wikipedia.org/wiki/National_Park_Service
+description: ''
+gutenberg_issued: '2020-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'F396'
+- !lcsh 'George Washington Carver National Monument (Mo.) -- Problems and exercises
+  -- Juvenile literature'
+- GITenberg
+title: 'George Washington Carver National Monument Junior Ranger Activity Book: The
+  Plant Doctor'
+url: http://www.gutenberg.org/ebooks/61231
